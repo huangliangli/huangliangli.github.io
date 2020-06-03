@@ -1,20 +1,5 @@
-body {font-size: 12px;}
-ul {list-style-type: none;display: block;padding-left: 0;}
-a {text-decoration:none;}
-a:hover {color:blue;}
-a:visited {color:#000;}
-a:active {color:blue;}
-li{float:left;margin-left: 5px;margin-right: 5px;display:block;}
-#navtop-l {width: 500px;float: left;}
-#navtop-r {float: right;width: 200px;}
-#logo {text-align: center;margin: auto;width: 540px;}
-#serch{text-align: center;}
-#hot a {float:left;}
-#hot h2{float: left;height: 25px;margin: 0;}
-#hot-t{height: 25px;}
-#hot-t span{float: right;width: 50%;height: 25px;line-height: 25px;}
-#hot-c{height: 260px;}
-#hot {position: absolute; margin:auto;width:300px ;height: 300px;top:0;left:0;right:0;bottom: 0;}
-#b-nav {float: left;position: absolute;bottom: 0;width: 100%;}
-#b-nav-r {float: right;}
-? 2020 GitHub, Inc.
+html {
+    color: #000;
+    overflow-y: scroll;
+    overflow: -moz-scrollbars;
+}
