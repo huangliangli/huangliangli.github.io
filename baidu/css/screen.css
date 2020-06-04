@@ -17,3 +17,15 @@ body {
     text-align: center;
     background: #fff;
 }
+body, button, input, select, textarea {
+    font-size: 12px;
+    font-family: "PingFang SC",Arial,"Microsoft YaHei",sans-serif;
+}
+html {
+    color: #000;
+    overflow-y: scroll;
+    overflow: -moz-scrollbars;
+}
+html {
+    color: -internal-root-color;
+}
